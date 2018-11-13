@@ -17,7 +17,6 @@
 | -- | -- | -- |
 | <https://enterpriseregistration.windows.net> | <https://enterpriseregistration.windows.net> | |
 | <https://login.microsoftonline.com> | <https://login.microsoftonline.com> | |
-| | | |
 | <https://device.login.microsoftonline.com> | <https://device.login.microsoftonline.com> | |
 | <https://autologon.microsoftazuread-sso.com> | <https://autologon.microsoftazuread-sso.com> | |
 
